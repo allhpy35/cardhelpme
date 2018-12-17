@@ -10,6 +10,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="카드사를 선택 해주세요"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="카드사를 선택하면 바로 고객센터로 전화가 연결됩니다."/>
         <ListView
             android:id="@+id/company_list"
             android:layout_width="match_parent"
